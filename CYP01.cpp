@@ -1,15 +1,16 @@
 #include <stdio.h>
+//comentario desde GitHub333
 
 int main() {
-	//Estas variables guardan el tamaño de la pantalla del teléfono.
+	//Estas variables guardan el tamaÃ±o de la pantalla del telÃ©fono.
 	int pantallaX;
 	int pantallaY;
 
-	//Estas variables guardan las coordenadas del objeto a mostrar, proporcional al tamaño de la pantalla del teléfono.
+	//Estas variables guardan las coordenadas del objeto a mostrar, proporcional al tamaÃ±o de la pantalla del telÃ©fono.
 	float posX;
 	float posY;
 
-	//Estas variables guardan el tamaño del objeto, proporcional al tamaño de la pantalla del teléfono.
+	//Estas variables guardan el tamaÃ±o del objeto, proporcional al tamaÃ±o de la pantalla del telÃ©fono.
 	float escX;
 	float escY;
 
